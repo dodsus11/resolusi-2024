@@ -2,4 +2,4 @@ belajar program desktop
   belajar program web
   belajar vcs
   belajar git
-  belajar github
+  belajar mysql
